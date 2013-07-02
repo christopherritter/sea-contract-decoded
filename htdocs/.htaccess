@@ -10,7 +10,7 @@ RewriteBase /
 RewriteRule ^([0-9A-Za-z\.]{1,4})-([0-9\.:]{1,10})/$ /law.php?section_number=$1-$2 [QSA]
 
 # Requests for a specific structural unit.
-RewriteRule ^((([0-9A-Za-z\.]{1,8})/)+)$ /structure.php [QSA]
+RewriteRule ^((([IVX]{1,5})/)+)$ /structure.php [QSA]
 
 # Requests for the about page.
 RewriteRule ^about/$ /about.php [QSA]
