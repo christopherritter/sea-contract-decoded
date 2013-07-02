@@ -2,62 +2,77 @@
 <law>
 
 <structure>
-	<unit label="Article" identifier="IV" level="1">Grievance Procedure</unit>
+	<unit label="Article" identifier="4" level="1">Grievance Procedure</unit>
 </structure>
 
 <section_number>4.01</section_number>
 <catch_line>Grievance Policy</catch_line>
 	
-<text>(a) The BOARD recognizes that in the interest of effective personnel management, a procedure is necessarywhereby each employee can be assured of a prompt, impartial and fair hearing on his/her grievance. Such procedure shall be available to each employee and no reprisals, of any kind, shall be taken against any employee initiating or participating in the grievance procedure.
+<text>
+<section prefix="a">The BOARD recognizes that in the interest of effective personnel management, a procedure is necessary whereby each employee can be assured of a prompt, impartial and fair hearing on his/her grievance. Such procedure shall be available to each employee and no reprisals, of any kind, shall be taken against any employee initiating or participating in the grievance procedure.</section>
+</text>
 
-(b) The grievant shall have the right to representation by the association at each step of this procedure.
+<section_number>4.01</section_number>
+<catch_line>Definitions</catch_line>
+	
+<text>
+<section prefix="a">Grievance - A grievance is a complaint regarding an alleged violation, misinterpretation or misapplication of any provision(s) of this Agreement; provided:</section>
 
-4.01 Definitions
+<section prefix="1">If a specific section of this Contract limits the parameters and use of this grievance procedure, such limitations shall be followed.</section>
 
-(a) Grievance - A grievance is a complaint regarding an alleged violation, misinterpretation or misapplication of any provision(s) of this Agreement; provided:
+<section prefix="b">Appropriate Administrator - The Administrator at the lowest level who has authority to consider the grievance.</section>
 
-(1) If a specific section of this Contract limits the parameters and use of this grievance procedure, such limitations shall befollowed.
+<section prefix="c">Grievant - The "grievant" shall mean the employee(s) or the ASSOCIATION filing the grievance.</section>
 
-(b) Appropriate Administrator— The Administrator at the lowest level who has authority to consider the grievance.
+<section prefix="d">Days - The term "days" shall mean calendar days.</section>
+</text>
 
-(c) Grievant - The "grievant" shall mean the employee(s) or the ASSOCIATION filing the grievance.
+<section_number>4.03</section_number>
+<catch_line>Purpose</catch_line>
+	
+<text>
+<section prefix="a">The purpose of the grievance procedure is to secure, at the lowest possible administrative level, proper solutions to grievances. Both parties agree that grievance proceedings shall be kept informal at all levels of the procedure.</section>
+</text>
 
-(d) Days - The term "days" shall mean calendar days.
+<section_number>4.04</section_number>
+<catch_line>Grievance Procedure</catch_line>
+	
+<text>
+<section prefix="a">Step One: Discussion with Administrator</section>
 
-4.03 Purpose
+<section prefix="1">Any employee having a grievance should first discuss such grievance and identify that he/she is beginning the grievance procedure with the appropriate Administrator.</section>
 
-(a) The purpose of the grievance procedure is to secure, at the lowest possible administrative level, proper solutions to grievances. Both parties agree that grievance proceedings shall be kept informal at all levels of the procedure.
+<section prefix="b">Step Two: Written to Administrator</section>
 
-4.04 Grievance Procedure
+<section prefix="1">If the discussion does not resolve the grievance to the satisfaction of the grievant, such grievant shall have the right to file a written grievance with the appropriate Administrator. If such grievance is not filed within twenty (20) calendar days after the occurrence of the act or the condition which is the basis of said grievance, said grievance shall be waived. The written grievance shall be on standard form (Appendix A) and shall contain a concise statement of the facts upon which the grievance is based and a reference to the specific provision of this Agreement allegedly violated, misinterpreted or misapplied.</section>
 
-(a) Step One: Discussion with Administrator
+<section prefix="2">Within seven (7) calendar days of receipt of the grievance, the Principal or Administrator shall hold a meeting at a mutually agreeable time to discuss the grievance.</section>
 
-(1) Any employee having a grievance should first discuss such grievance and identify that he/she is beginning the grievance procedure with the appropriate Administrator.
+<section prefix="3">The Administrator shall answer the written grievance within seven (7) calendar days after the conclusion of the meeting. The answer and the reasons for the answer shall be reduced to writing and copies sent to the grievant, and the ASSOCIATION. In the event the Administrator fails to timely answer the grievance at Step 2, the grievant may move to the next step.</section>
 
-(b) Step Two: Written to Administrator
+<section prefix="c">Step Three: Appeal to Superintendent</section>
 
-(1) If the discussion does not resolve the grievance to the satisfaction of the grievant, such grievant shall have the right to file a written grievance with the appropriate Administrator. If such grievance is not filed within twenty (20) calendar days after the occurrence of the act or the condition which is the basis of said grievance, said grievance shall be waived. The written grievance shall be on standard form (Appendix A) and shall contain a concise statement of the facts upon which the grievance is based and a reference to the specific provision of this Agreement allegedly violated, misinterpreted or misapplied.
+<section prefix="1">If the answer of the Administrator does not resolve the grievance to the satisfaction of the grievant, the grievant may appeal the grievance in writing to the Superintendent. Failure to file such an appeal within seven (7) calendar days from receipt of the written Step Two answer of the Administrator shall be deemed a waiver of the right to appeal and the grievance shall thereafter be void and not subject to further processing. A meeting shall be conducted by the Superintendent, at a mutually agreeable time, within seven (7) calendar days after the receipt of the appeal. The grievant shall be advised in writing of the time, place and date of such hearing and shall have the right to be represented at such meeting by the ASSOCIATION.</section>
 
-(2) Within seven (7) calendar days of receipt of the grievance, the Principal or Administrator shall hold a meeting at a mutually agreeable time to discuss the grievance.
+<section prefix="2">The Superintendent shall answer the appeal of the grievance within seven (7) calendar days after the conclusion of the Step Three meeting. The Step Three action and the reasons for the answer shall be reduced to writing and copies sent to the grievant, the Step One Administrator, and the ASSOCIATION. In the event the Superintendent fails to timely answer the grievance at Step Two the grievant may move to the next step.</section>
 
-(3) The Administrator shall answer the written grievance within seven (7) calendar days after the conclusion of the meeting. The answer and the reasons for the answer shall be reduced to writing and copies sent to the grievant, and the ASSOCIATION. In the event the Administrator fails to timely answer the grievance at Step 2, the grievant may move to the next step.
+<section prefix="e">Step Four: Arbitration</section>
 
-(c) Step Three: Appeal to Superintendent
+<section prefix="1">The ASSOCIATION may, within ten (10) calendar days after the issuance of the Step Three answer, demand arbitration in accordance with the rules and regulations of the American Arbitration Association; provided, however, it does not have the right to appoint an arbitrator who is not mutually agreeable to the parties. When issued in accordance with these procedures, the opinion and award of the arbitrator shall be final and binding upon the parties. The arbitrator shall not have the power to add to, subtract from, or modify this Agreement. The arbitrator has the authority to determine arbitrability if such an issue exists. Cost for the services of the arbitrator, including per diem expenses and actual and necessary travel expense, shall be borne equality by the parties.</section>
+</text>
 
-(1) If the answer of the Administrator does not resolve the grievance to the satisfaction of the grievant, the grievant may appeal the grievance in writing to the Superintendent. Failure to file such an appeal within seven (7) calendar days from receipt of the written Step Two answer of the Administrator shall be deemed a waiver of the right to appeal and the grievance shall thereafter be void and not subject to further processing. A meeting shall be conducted by the Superintendent, at a mutually agreeable time, within seven (7) calendar days after the receipt of the appeal. The grievant shall be advised in writing of the time, place and date of such hearing and shall have the right to be represented at such meeting by the ASSOCIATION.
+<section_number>4.05</section_number>
+<catch_line>Withdrawal of Grievance</catch_line>
+	
+<text>
+<section prefix="a">A grievance may be withdrawn at any level without prejudice or record. However, if the grievance is withdrawn after arbitration has been requested, and the withdrawal is not pursuant to a settlement of the grievance, the Association shall bear the costs of said cancellation.</section>
+</text>
 
-(2) The Superintendent shall answer the appeal of the grievance within seven (7) calendar days after the conclusion of the Step Three meeting. The Step Three action and the reasons for the answer shall be reduced to writing and copies sent to the grievant, the Step One Administrator, and the ASSOCIATION. In the event the Superintendent fails to timely answer the grievance at Step Two the grievant may move to the next step.
-
-(e) Step Four: Arbitration
-
-(1) The ASSOCIATION may, within ten (10) calendar days after the issuance of the Step Three answer, demand arbitration in accordance with the rules and regulations of the American Arbitration Association; provided, however, it does not have the right to appoint an arbitrator who is not mutually agreeable to the parties. When issued in accordance with these procedures, the opinion and award of the arbitrator shall be final and binding upon the parties. The arbitrator shall not have the power to add to, subtract from, or modify this Agreement. The arbitrator has the authority to determine arbitrability if such an issue exists. Cost for the services of the arbitrator, including per diem expenses and actual and necessary travel expense, shall be borne equality by the parties.
-
-4.05 Withdrawal of Grievance
-
-(a) A grievance may be withdrawn at any level without prejudice or record. However, if the grievance is withdrawn after arbitration has been requested, and the withdrawal is not pursuant to a settlement of the grievance, the Association shall bear the costs of said cancellation.
-
-4.06 Prohibition of Reprisals
-
-(a) An employee who participates in these grievance procedures shall not be subjected to discipline or reprisal because of such participation. A copy of the grievance shall not be filed in the employee's personnel file but shall be maintained by the Superintendent in a separate grievance record file.</text>
+<section_number>4.06</section_number>
+<catch_line>Prohibition of Reprisals</catch_line>
+	
+<text>
+<section prefix="a">An employee who participates in these grievance procedures shall not be subjected to discipline or reprisal because of such participation. A copy of the grievance shall not be filed in the employee's personnel file but shall be maintained by the Superintendent in a separate grievance record file.</section>
+</text>
 
 </law>
