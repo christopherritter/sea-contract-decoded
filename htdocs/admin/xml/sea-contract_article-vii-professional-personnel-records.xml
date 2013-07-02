@@ -2,48 +2,72 @@
 <law>
 
 <structure>
-	<unit label="Article" identifier="VII" level="1">Professional Personnel Records</unit>
+	<unit label="Article" identifier="7" level="1">Professional Personnel Records</unit>
 </structure>
 
 <section_number>7.01</section_number>
 <catch_line>Contents of Personnel Records</catch_line>
 	
-<text>(a) All official personnel records will be filed in the Superintendents office or Treasurers office on a current basis. These personnel records may include:
+<text>
+<section prefix="a">All official personnel records will be filed in the Superintendents office or Treasurers office on a current basis. These personnel records may include:</section>
 
-(1) Application for employment, including references;
-(2) Nomination form;
-(3) Copy of latest contract properly signed;
-(4) Copy of latest salary notice;
-(5) Ohio teaching certificate;
-(6) Evaluation(s);
-(7) Transcript(s) of college credits showing the official record of the degree granted, original or certified copy;
-(8) Record of military service;
-(9) Record of tuberculosis test or x-ray;
-(10) Recommendations/reprimands; and
-(11) Other documents properly placed in such file utilizing the procedure set forth in Section 7.02 below.
+<section prefix="1">Application for employment, including references;</section>
 
-7.02 Access to Personnel Records
+<section prefix="2">Nomination form;</section>
 
-(a) Each employee will have access to the contents of his/her own personnel file with the exception of the (a)(1) above. This personnel file may be opened only in the presence of the Superintendent; and a representative of the ASSOCIATION may, at the employee's request, accompany the employee in such a review.
+<section prefix="3">Copy of latest contract properly signed;</section>
 
-(b) Material will be removed from an employee's file by consent of the Superintendent or, if required by law or pursuant to the decision of an arbitrator hearing a grievance under this Agreement.
+<section prefix="4">Copy of latest salary notice;</section>
 
-(c) An employees personnel file shall be deemed confidential and shall not be open to the public except as required by law. An employee's medical file shall be deemed confidential information and shall not be open to the public.
+<section prefix="5">Ohio teaching certificate;</section>
 
-7.03 Material Placed in Personnel Files
+<section prefix="6">Evaluation(s);</section>
 
-(a) An employee will be notified of the placement in this/her personnel file of any material and will be provided the opportunity to read any such material prior to its being placed in his/her file. An employee will be given the opportunity to acknowledge that he/she has read the material by affixing his/her signature to the copy to be filed. This signature will not indicate agreement with the content of the material, but indicates only that the material has been provided to the employee. If the employee declines to sign the material, this shall be noted on the material placed in the personnel file. An employee shall have the opportunity to reply to any material placed in his/her personnel file in a written statement to be attached to the filed copy. The employee will be given a copy of such material. Any written reprimand or other disciplinary action of record except for suspensions without pay taken against an employee shall be deemed null and void and of no force and effect either three (3) years after the date of issuance, provided there has been no other discipline during such three (3) year period, or three (3) years after the date of issuance of the last discipline of record, whichever is the later date. Records of suspensions without pay shall be deemed null and void and of no force and effect either ten (10) years after the date of issuance, provided there has been no other discipline during such ten (10) year period, or ten (1) years after the date of issuance of the last discipline of record, whichever is the later date.
+<section prefix="7">Transcript(s) of college credits showing the official record of the degree granted, original or certified copy;</section>
 
-7.04 Procedures for Complaints of Record
+<section prefix="8">Record of military service;</section>
 
-(a) Upon receipt of a complaint, the Building Principal or his/her designee, will investigate the allegations contained therein. Should the Building Principal, or his/her designee, determine that the allegations are serious enough to become a matter of record, he/she shall meet with the employee to discuss the complaint. The employee may be accompanied by an association representative. At the meeting the employee shall be presented with the specifics of the complaint, and shall have the opportunity to respond to the allegations.
+<section prefix="9">Record of tuberculosis test or x-ray;</section>
 
-(b) If, upon completion of the investigation, the complaint is merited by the facts of the case, a written report may be generated. if a report is generated, a copy will be provided to the employee. if the complainant has asked that their identity not be identified, no written report shall be generated solely on the basis of a confidential complaint.
+<section prefix="10">Recommendations/reprimands; and</section>
 
-(c) After completion of the investigation, should the Building Principal, or his/her designee, determine that disciplinary action is necessary, the procedure set forth in Article Xi shall be followed.
+<section prefix="11">Other documents properly placed in such file utilizing the procedure set forth in Section 7.02 below.</section>
+</text>
 
-7.05 Employee Right to Copies of File Materials
+<section_number>7.02</section_number>
+<catch_line>Access to Personnel Records</catch_line>
+	
+<text>
+<section prefix="a">Each employee will have access to the contents of his/her own personnel file with the exception of the (a)(1) above. This personnel file may be opened only in the presence of the Superintendent; and a representative of the ASSOCIATION may, at the employee's request, accompany the employee in such a review.</section>
 
-(a) An employee shall be entitled to a copy of any material in his/her file except the material originally supplied to the administration as confidential prior to employment.</text>
+<section prefix="b">Material will be removed from an employee's file by consent of the Superintendent or, if required by law or pursuant to the decision of an arbitrator hearing a grievance under this Agreement.</section>
+
+<section prefix="c">An employees personnel file shall be deemed confidential and shall not be open to the public except as required by law. An employee's medical file shall be deemed confidential information and shall not be open to the public.</section>
+</text>
+
+<section_number>7.03</section_number>
+<catch_line>Material Placed in Personnel Files</catch_line>
+	
+<text>
+<section prefix="a">An employee will be notified of the placement in this/her personnel file of any material and will be provided the opportunity to read any such material prior to its being placed in his/her file. An employee will be given the opportunity to acknowledge that he/she has read the material by affixing his/her signature to the copy to be filed. This signature will not indicate agreement with the content of the material, but indicates only that the material has been provided to the employee. If the employee declines to sign the material, this shall be noted on the material placed in the personnel file. An employee shall have the opportunity to reply to any material placed in his/her personnel file in a written statement to be attached to the filed copy. The employee will be given a copy of such material. Any written reprimand or other disciplinary action of record except for suspensions without pay taken against an employee shall be deemed null and void and of no force and effect either three (3) years after the date of issuance, provided there has been no other discipline during such three (3) year period, or three (3) years after the date of issuance of the last discipline of record, whichever is the later date. Records of suspensions without pay shall be deemed null and void and of no force and effect either ten (10) years after the date of issuance, provided there has been no other discipline during such ten (10) year period, or ten (1) years after the date of issuance of the last discipline of record, whichever is the later date.</section>
+</text>
+
+<section_number>7.04</section_number>
+<catch_line>Procedures for Complaints of Record</catch_line>
+	
+<text>
+<section prefix="a">Upon receipt of a complaint, the Building Principal or his/her designee, will investigate the allegations contained therein. Should the Building Principal, or his/her designee, determine that the allegations are serious enough to become a matter of record, he/she shall meet with the employee to discuss the complaint. The employee may be accompanied by an association representative. At the meeting the employee shall be presented with the specifics of the complaint, and shall have the opportunity to respond to the allegations.</section>
+
+<section prefix="b">If, upon completion of the investigation, the complaint is merited by the facts of the case, a written report may be generated. if a report is generated, a copy will be provided to the employee. if the complainant has asked that their identity not be identified, no written report shall be generated solely on the basis of a confidential complaint.</section>
+
+<section prefix="c">After completion of the investigation, should the Building Principal, or his/her designee, determine that disciplinary action is necessary, the procedure set forth in Article Xi shall be followed.</section>
+</text>
+
+<section_number>7.05</section_number>
+<catch_line>Employee Right to Copies of File Materials</catch_line>
+	
+<text>
+<section prefix="a">An employee shall be entitled to a copy of any material in his/her file except the material originally supplied to the administration as confidential prior to employment.</section>
+</text>
 
 </law>
