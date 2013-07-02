@@ -77,7 +77,7 @@ define('EDITION_YEAR', 2013);
  * Does this state's code include laws that have been repealed formally, and that are marked as
  * such?
  */
-define('INCLUDES_REPEALED', TRUE);
+define('INCLUDES_REPEALED', FALSE);
 
 /*
  * The DSN to connect to MySQL.
