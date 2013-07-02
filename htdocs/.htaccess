@@ -7,7 +7,7 @@ RewriteBase /
 ### SAMPLE REWRITERULES ###
 
 # Requests for a specific law.
-RewriteRule ^([0-9A-Za-z\.]{1,4})-([0-9\.:]{1,10})/$ /law.php?section_number=$1-$2 [QSA]
+RewriteRule ^([0-9]{1,2})\.([0-9]{1,2})/$ /law.php?section_number=$1.$2 [QSA]
 
 # Requests for a specific structural unit.
 RewriteRule ^((([IVX]{1,5})/)+)$ /structure.php [QSA]
