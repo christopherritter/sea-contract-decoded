@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+
+<structure>
+	<unit label="Article" identifier="VII" level="1">Professional Personnel Records</unit>
+</structure>
+
+<section_number>7.01</section_number>
+<catch_line>Contents of Personnel Records</catch_line>
+	
+<text>
+<section prefix="a">All official personnel records will be filed in the Superintendents office or Treasurers office on a current basis. These personnel records may include:</section>
+
+<section prefix="1">Application for employment, including references;</section>
+
+<section prefix="2">Nomination form;</section>
+
+<section prefix="3">Copy of latest contract properly signed;</section>
+
+<section prefix="4">Copy of latest salary notice;</section>
+
+<section prefix="5">Ohio teaching certificate;</section>
+
+<section prefix="6">Evaluation(s);</section>
+
+<section prefix="7">Transcript(s) of college credits showing the official record of the degree granted, original or certified copy;</section>
+
+<section prefix="8">Record of military service;</section>
+
+<section prefix="9">Record of tuberculosis test or x-ray;</section>
+
+<section prefix="10">Recommendations/reprimands; and</section>
+
+<section prefix="11">Other documents properly placed in such file utilizing the procedure set forth in Section 7.02 below.</section>
+</text>
+
+</law>

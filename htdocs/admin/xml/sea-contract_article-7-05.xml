@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+
+<structure>
+	<unit label="Article" identifier="VII" level="1">Professional Personnel Records</unit>
+</structure>
+
+<section_number>7.05</section_number>
+<catch_line>Employee Right to Copies of File Materials</catch_line>
+	
+<text>
+<section prefix="a">An employee shall be entitled to a copy of any material in his/her file except the material originally supplied to the administration as confidential prior to employment.</section>
+</text>
+
+</law>

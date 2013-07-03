@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+
+<structure>
+	<unit label="Article" identifier="V" level="1">Association Rights</unit>
+</structure>
+
+<section_number>5.04</section_number>
+<catch_line>BOARD Meetings</catch_line>
+	
+<text>
+<section prefix="a">Prior to each BOARD meeting, the President of the ASSOCIATION shall be provided with an agenda and minutes of previous meetings as included with the agenda. Any addendum to the agenda shall be distributed to the ASSOCIATION President at the BOARD meeting.</section>
+
+<section prefix="b">The President of the ASSOCIATION shall have the right to speak at BOARD meetings on any item of concern to members at a time designated by the BOARD.</section>
+
+<section prefix="c">The President of the ASSOCIATION shall have the right to speak at BOARD meetings on any item of concern to members and at a time designed by the BOARD.</section>
+</text>
+
+</law>

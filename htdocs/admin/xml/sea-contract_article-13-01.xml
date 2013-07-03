@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+
+<structure>
+		<unit label="Article" identifier="XIII" level="1">Employee Protection</unit>
+</structure>
+
+<section_number>13.01</section_number>
+<catch_line>School Discipline Procedures</catch_line>
+	
+<text>
+<section prefix="a">The BOARD is responsible for adopting a code of student conduct.</section>
+
+<section prefix="b">The Principal of each building shall develop with his/her faculty and staff a means of implementing the adopted code of a student conduct for his/her school building that leads to appropriate student discipline.</section>
+
+<section prefix="c">Rules and regulations governing discipline and procedures for student control shall be reviewed by the Building Principal periodically with the faculty.</section>
+
+<section prefix="d">A Building Code of Conduct regarding discipline shall be presented to each employee at the beginning of each school year.</section>
+</text>
+
+</law>

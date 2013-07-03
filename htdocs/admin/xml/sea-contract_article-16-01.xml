@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+
+<structure>
+	<unit label="Article" identifier="XVI" level="1">Individual Employee Contracts</unit>
+</structure>
+
+<section_number>16.01</section_number>
+<catch_line>Limited Contract Sequence</catch_line>
+	
+<text>
+<section prefix="a">An employee sewing under a limited contract shall be considered, at the expiration of his/her present limited contract, for a multi-year limited contract, providing the following qualifications have been met:</section>
+
+<section prefix="1">The employee has served at least three consecutive years under one-year limited contracts.</section>
+
+<section prefix="2">The employee is recommended on the basis of evaluation for a multi-year contract by the Superintendent.</section>
+
+<section prefix="3">Nothing herein shall preclude the BOARD from offering the employee a one-year contract on the basis of evaluation.</section>
+</text>
+
+</law>

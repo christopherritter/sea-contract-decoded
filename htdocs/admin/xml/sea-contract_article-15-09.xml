@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+
+<structure>
+	<unit label="Article" identifier="XV" level="1">Working Conditions</unit>
+</structure>
+
+<section_number>15.09</section_number>
+<catch_line>Facilities for Employees</catch_line>
+
+<text>
+<section prefix="a">In each building, employees shall have at least one room of appropriate size reserved for faculty use.</section>
+
+<section prefix="b">A telephone shall be made available in each building for personal and professional use.</section>
+</text>
+
+</law>

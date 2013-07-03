@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+
+<structure>
+	<unit label="Article" identifier="IV" level="1">Grievance Procedure</unit>
+</structure>
+
+<section_number>4.03</section_number>
+<catch_line>Purpose</catch_line>
+	
+<text>
+<section prefix="a">The purpose of the grievance procedure is to secure, at the lowest possible administrative level, proper solutions to grievances. Both parties agree that grievance proceedings shall be kept informal at all levels of the procedure.</section>
+</text>
+
+</law>
