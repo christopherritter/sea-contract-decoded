@@ -2,10 +2,10 @@
 <law>
 
 <structure>
-	<unit label="" identifier="" level="1">Preamble</unit>
+	<unit label="Article" identifier="XX" level="1">Preamble</unit>
 </structure>
 
-<section_number></section_number>
+<section_number>20.01</section_number>
 <catch_line>Preamble</catch_line>
 	
 <text>

@@ -140,7 +140,7 @@ define('EMAIL_NAME', SITE_TITLE);
  * The site uses its own API extensively. Provide the API key here. (This is populated automatically
  * at the time that the parser is run.)
  */
-define('API_KEY', '');
+define('API_KEY', 'ysX5FTlxLq5fkHP9');
 
 /*
  * If you want to enable Disqus <http://www.disqus.com/> commenting for every law, register for
