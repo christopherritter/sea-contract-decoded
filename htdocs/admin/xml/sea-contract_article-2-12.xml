@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+<structure>
+	<unit label="Article" identifier="II" level="1">Professional Negotiations Procedures</unit>
+</structure>
+
+<section_number>2.12</section_number>
+<catch_line>Change in Law During Agreement</catch_line>
+	
+<text>
+<section prefix="a">If, during the term of this AGREEMENT, there is a change in any state or federal law which would invalidate any provision of this AGREEMENT. The parties will meet to negotiate any necessary change in the Agreement relative to the affected provision within thirty (30) calendar days upon request of either party and in accordance with provisions outlined in this Article.</section>
+</text>
+
+</law>

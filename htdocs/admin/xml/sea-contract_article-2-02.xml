@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+<structure>
+	<unit label="Article" identifier="II" level="1">Professional Negotiations Procedures</unit>
+</structure>
+
+<section_number>2.02</section_number>
+<catch_line>Professional Negotiations Meetings</catch_line>
+	
+<text>
+<section prefix="a">The parties shall meet at a time and place as determined under Section 2.01 for the first negotiations meeting.</section>
+
+<section prefix="b">Specific written proposals shall be exchanged by the parties at the first meeting unless otherwise mutually agreed. The party requesting negotiations shall present and explain its proposals first. The other party will then present and explain its proposals. Subsequently, no new proposals shall be considered unless otherwise mutually agreed. The date, time and place for each subsequent negotiations meeting shall be determined at the end of each negotiations meeting.</section>
+</text>
+
+</law>
