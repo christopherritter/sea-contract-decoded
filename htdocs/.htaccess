@@ -21,3 +21,5 @@ RewriteRule ^api-key/$ /api-key.php [QSA]
 # If this is a request for a plain-text version of a page, translate the extention into a specific
 # request.
 RewriteRule ^(.*)\.txt$ /$1/?plain_text=y
+
+php_flag display_errors off
