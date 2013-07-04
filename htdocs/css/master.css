@@ -308,7 +308,7 @@ header {
 header hgroup {
 	margin: 0 auto;
 	text-align: center;
-	width: 415px;
+	/* width: 415px; */
 }
 
 header h1 {
@@ -333,9 +333,9 @@ header h1 {
 		}
 
 header h2 {
-	background: transparent url('/images/templates/default/h2_tagline.png') no-repeat top left;
+	background: transparent url('/images/templates/default/h2_tagline.png') no-repeat top center;
 	height: 59px;
-	width: 415px;
+	/*width: 415px;*/
 }
 
 header nav#main_navigation {
@@ -441,7 +441,7 @@ section#user_actions nav#user_functions ul li:first-child {
 	margin-left: 18px;
 }
 
-section#page {margin-top: 104px;}
+section#page {margin-top: 52px; margin-bottom: 52px;}
 
 section#page h1, section#page h2, section#page h3 {
 	font-family: "Hoefler Text", Baskerville, Garamond, "Palatino Linotype", Georgia, "Times New Roman", serif;

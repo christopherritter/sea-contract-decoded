@@ -61,7 +61,7 @@ define('PLACE_NAME', 'Springboro');
 define('LAWS_NAME', 'Contract');
 
 /*
- * What is the prefix that indicates a section? In many states, this is §, but in others it might be
+ * What is the prefix that indicates a section? In many states, this is Â§, but in others it might be
  * "s".
  */
 define('SECTION_SYMBOL', '§');

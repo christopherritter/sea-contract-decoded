@@ -44,7 +44,8 @@
 		</div>
 		<header id="masthead">
 			<hgroup>
-				<h1><a href="/">The State Decoded</a></h1>
+				<h1><a href="/">Springboro Teacher's Contract</a></h1>
+				<h2 id="slogan" class="ir">Springboro Commmunity Schools</h2>
 			</hgroup>
 			<nav id="main_navigation">
 				<div id="search">
