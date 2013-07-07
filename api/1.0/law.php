@@ -4,7 +4,13 @@ header("HTTP/1.0 200 OK");
 header('Content-type: application/json');
 
 # Include the PHP declarations that drive this page.
-require $_SERVER['DOCUMENT_ROOT'].'/../includes/page-head.inc.php';
+require $_SERVER['DOCUMENT_ROOT'].'/includes/page-head.inc.php';
+
+if (!isset($_GET['section']) || empty($_GET['section']))
+{
+	json_error('Code section not provided.');
+	die();
+}
 
 $api = new API;
 $api->list_all_keys();
@@ -44,43 +50,47 @@ if (isset($_REQUEST['callback']))
 	}
 }
 
-# If no identifier has been specified, explicitly make it a null variable. This is when the request
-# is for the top level -- that is, a listing of the fundamental units of the code (e.g., titles).
-if ( !isset($_GET['identifier']) || empty($_GET['identifier']) )
-{
-	$identifier = '';
-}
+# Localize the section identifier, filtering out unsafe characters.
+$section = filter_input(INPUT_GET, 'section', FILTER_SANITIZE_STRING);
 
-# If an identifier has been specified (which may come in the form of multiple identifiers, separated
-# by slashes), localize that variable.
-else
+# If there's a trailing slash, remove it.
+if (substr($section, -1) == '/')
 {
-	# Localize the identifier, filtering out unsafe characters.
-	$identifier = filter_input(INPUT_GET, 'identifier', FILTER_SANITIZE_STRING);
+	$section = substr($section, 0, -1);
 }
 
 # Create a new instance of the class that handles information about individual laws.
-$struct = new Structure();
+$laws = new Law();
 
-# Pass the requested URL to Structure, and then get structural data from that URL. We're faking the
-# URL to emulate the public listing (e.g., <http://example.com/12/6/>), which is what is expected
-# by the url_to_structure() method.
-$struct->url = 'http://'.$_SERVER['HTTP_HOST'].'/'.$identifier;
-$struct->url_to_structure();
-$response = $struct->structure;
+# Instruct the Law class on what, specifically, it should retrieve.
+$laws->config->get_text = TRUE;
+$laws->config->get_structure = TRUE;
+$laws->config->get_amendment_attempts = FALSE;
+$laws->config->get_court_decisions = TRUE;
+$laws->config->get_metadata = TRUE;
+$laws->config->get_references = TRUE;
+$laws->config->get_related_laws = TRUE;
 
-# If this structural element does not exist.
+# Pass the requested section number to Law.
+$laws->section_number = $section;
+
+# Get a list of all of the basic information that we have about this section.
+$response = $laws->get_law();
+
+# If, for whatever reason, this section is not found, return an error.
 if ($response === false)
 {
 	json_error('Section not found.');
 	die();
 }
+else
+{
 
-# List all child structural units.
-$response->children = $struct->list_children();
-
-# List all laws.
-$response->laws = $struct->list_laws();
+	# Eliminate the listing of all other sections in the chapter that contains this section. That's
+	# returned by our internal API by default, but it's not liable to be useful to folks receiving
+	# this data.
+	unset($response->chapter_contents);
+}
 
 # If the request contains a specific list of fields to be returned.
 if (isset($_GET['fields']))

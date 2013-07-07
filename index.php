@@ -20,7 +20,7 @@
 /*
  * Include the PHP declarations that drive this page.
  */
-require $_SERVER['DOCUMENT_ROOT'].'/../includes/page-head.inc.php';
+require $_SERVER['DOCUMENT_ROOT'].'/includes/page-head.inc.php';
 
 /*
  * Fire up our templating engine.

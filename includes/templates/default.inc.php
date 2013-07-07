@@ -36,6 +36,15 @@
 		google.load("jquery", "1.4.3");
 		google.load("jqueryui", "1.8.11");
 	</script>
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-42211448-2', 'springborocode.org');
+		ga('send', 'pageview');
+	</script>
 </head>
 <body>
 	<div id="content">
@@ -44,7 +53,8 @@
 		</div>
 		<header id="masthead">
 			<hgroup>
-				<h1><a href="/">The State Decoded</a></h1>
+				<h1><a href="/">Springboro Teachers Contract</a></h1>
+				<h2 id=slogan class=ir>Springboro Community City Schools</h2>
 			</hgroup>
 			<nav id="main_navigation">
 				<div id="search">

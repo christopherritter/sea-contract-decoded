@@ -308,7 +308,6 @@ header {
 header hgroup {
 	margin: 0 auto;
 	text-align: center;
-	width: 415px;
 }
 
 header h1 {
@@ -336,6 +335,9 @@ header h2 {
 	background: transparent url('/images/templates/default/h2_tagline.png') no-repeat top left;
 	height: 59px;
 	width: 415px;
+	position:absolute;
+	left:50%;
+	margin-left:-207px;
 }
 
 header nav#main_navigation {

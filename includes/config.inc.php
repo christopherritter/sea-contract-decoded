@@ -33,7 +33,7 @@ set_include_path(get_include_path().PATH_SEPARATOR.INCLUDE_PATH);
 /*
  * Define web root.
  */
-define('WEB_ROOT', BASE_PATH . '/htdocs');
+define('WEB_ROOT', BASE_PATH);
 
 /*
  * The file in the /includes/ directory that contains functions custom to this installation.
@@ -48,7 +48,7 @@ define('TEMPLATE', 'default');
 /*
  * What is the title of the website?
  */
-define('SITE_TITLE', 'SEA Contract');
+define('SITE_TITLE', 'Springboro Teachers Contract');
 
 /*
  * What is the name of the place that these laws govern?
@@ -82,9 +82,9 @@ define('INCLUDES_REPEALED', FALSE);
 /*
  * The DSN to connect to MySQL.
  */
-define('PDO_DSN', 'mysql:dbname=statedecoded;host=localhost;charset=utf8');
-define('PDO_USERNAME', 'root');
-define('PDO_PASSWORD', '');
+define('PDO_DSN', 'mysql:dbname=statedecoded;host=openspringboro.db;charset=utf8');
+define('PDO_USERNAME', 'christopherr');
+define('PDO_PASSWORD', 'jeur4T89');
 
 /*
  * Specify the structural identifier ancestry for the unit of the code that contains definitions of

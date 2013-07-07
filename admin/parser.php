@@ -24,7 +24,7 @@
 /*
  * Include the PHP declarations that drive this page.
  */
-require dirname(dirname(dirname(__FILE__))).'/includes/page-head.inc.php';
+require $_SERVER['DOCUMENT_ROOT'].'/includes/page-head.inc.php';
 
 /*
  * Include the code with the functions that drive this parser.

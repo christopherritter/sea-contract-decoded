@@ -4,7 +4,7 @@ header("HTTP/1.0 200 OK");
 header('Content-type: application/json');
 
 # Include the PHP declarations that drive this page.
-require $_SERVER['DOCUMENT_ROOT'].'/../includes/page-head.inc.php';
+require $_SERVER['DOCUMENT_ROOT'].'/includes/page-head.inc.php';
 
 if (!isset($_GET['term']) || empty($_GET['term']))
 {
