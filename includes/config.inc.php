@@ -82,9 +82,9 @@ define('INCLUDES_REPEALED', FALSE);
 /*
  * The DSN to connect to MySQL.
  */
-define('PDO_DSN', 'mysql:dbname=statedecoded;host=openspringboro.db;charset=utf8');
-define('PDO_USERNAME', 'christopherr');
-define('PDO_PASSWORD', 'jeur4T89');
+define('PDO_DSN', 'mysql:dbname=statedecoded;host=localhost;charset=utf8');
+define('PDO_USERNAME', 'root');
+define('PDO_PASSWORD', '');
 
 /*
  * Specify the structural identifier ancestry for the unit of the code that contains definitions of
@@ -146,7 +146,7 @@ define('API_KEY', 'ysX5FTlxLq5fkHP9');
  * If you want to enable Disqus <http://www.disqus.com/> commenting for every law, register for
  * Disqus, create a new site, and enter the assigned Disqus shortname here.
  */
-// define('DISQUS_SHORTNAME', '');
+define('DISQUS_SHORTNAME', 'springboroteacherscontract');
 
 /*
  * If you're running a Varnish server, and you want The State Decoded to automatically purge expired
